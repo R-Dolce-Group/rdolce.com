@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be32e3f8-c51a-40cf-b19d-40bcb8fe1230" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="be32e3f8-c51a-40cf-b19d-40bcb8fe1230" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531389592889</updated>
-      <workItem from="1531389595209" duration="947000" />
+      <workItem from="1531389595209" duration="1560000" />
     </task>
     <task id="LOCAL-00001" summary="Adding PHPStorm projects">
       <created>1531389623461</created>
@@ -126,15 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1531390400433</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding sample update">
+      <created>1531390591265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531390591265</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="947000" />
+    <option name="totallyTimeSpent" value="1560000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="1611" height="835" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24984066" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -166,7 +170,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding PHPStorm projects" />
     <MESSAGE value="adding php info" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding php info" />
+    <MESSAGE value="adding sample update" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding sample update" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/phpinfo.php">
