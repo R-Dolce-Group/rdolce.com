@@ -19,3 +19,6 @@ application/logs/*
 *.stTheme.cache
 *.sublime-workspace
 *.sublime-project
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
+*.sqlite-journal
